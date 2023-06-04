@@ -1,0 +1,23 @@
+{
+  "name": "raitron",
+  "version": "1.0.0",
+  "description": "Next + Electron + Typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron main/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaianGil/Raitron.git"
+  },
+  "author": "Raian Gil del Rosario",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RaianGil/Raitron/issues"
+  },
+  "homepage": "https://github.com/RaianGil/Raitron#readme",
+  "devDependencies": {
+    "electron": "^25.0.1"
+  }
+}
